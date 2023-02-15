@@ -13,8 +13,8 @@ Coding Language: Python/CSS/MongoDB
 IDE: Microsoft Visual Studio Code.
 
 # Useful Websites
-* <[Create JSON file with Python](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
-* <[Use Python with MongoDB](https://www.mongodb.com/languages/python)
+* [Create JSON file with Python](https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/)
+* [Use Python with MongoDB](https://www.mongodb.com/languages/python)
 
 # Future Work
 
