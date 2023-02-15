@@ -1,7 +1,7 @@
 # MongoDB_Scraper
 Program to scrape Data off the internet and insert the data into newly created <Postgres Tables>
 
-Usual Webscrapers get data off the internet and then the user transfers that Data to where they need it. This program skips the middleman and directly creates the <tables and updates the table using SQL> in a Python Program.
+Usual Webscrapers get data off the internet and then the user transfers that Data to where they need it. This program skips the middleman and directly creates the Collection and updates the key-value pairs using MongoDB in a Python Program.
 
 [Software Demo Video](<https://youtu.be>)
 
