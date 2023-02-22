@@ -172,7 +172,7 @@ def insert_data(id,
 
 #Connects to MongoDB Server and creates Database
 def get_database():
-   CONNECTION_STRING = "mongodb+srv://Askels0n:Askels0n@sandbox.eaeyl.mongodb.net/test"
+   CONNECTION_STRING = "mongodb+srv://<username>:<password>@sandbox.eaeyl.mongodb.net/test"
    client = MongoClient(CONNECTION_STRING)
    return client['LDS_Records']
   
